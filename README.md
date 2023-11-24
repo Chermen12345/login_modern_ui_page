@@ -1,16 +1,3 @@
-# login_ui
+flutter modern login page ui with gradient
+![Untitled](https://github.com/Chermen12345/login_modern_ui_page/assets/125674026/92ff5ee9-9515-4bde-9553-472967f4a79e)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
